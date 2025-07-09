@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: #00e5ff;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    color: #ff4081;
+}
+video, canvas {
+    border: 2px solid #00e5ff;
+    width: 45%;
+    margin: 10px;
+}
